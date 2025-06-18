@@ -47,10 +47,10 @@ window.addEventListener('load', revealOnScroll);
 
 // Carrossel
 const images = [
-  './img/plantio.jpeg',
-  './img/colheita.jpg',
   './img/fazendas.jpg',
   './img/cafeee.jpg',
+  './img/colheita.jpg',
+  './img/exportação.webp',
 ];
 let currentIndex = 0;
 
