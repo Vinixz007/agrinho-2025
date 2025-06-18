@@ -49,7 +49,8 @@ window.addEventListener('load', revealOnScroll);
 const images = [
   './img/plantio.jpeg',
   './img/colheita.jpg',
-  './img/fazendas.jpg'
+  './img/fazendas.jpg',
+  './img/cafeee.jpg',
 ];
 let currentIndex = 0;
 
