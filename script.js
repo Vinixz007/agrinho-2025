@@ -50,7 +50,7 @@ const images = [
   './img/plantio.jpeg',
   './img/colheita.jpg',
   './img/fazendas.jpg',
-  './img/cafeee.jpg',
+  './img/cafeee.jpg'
 ];
 let currentIndex = 0;
 
